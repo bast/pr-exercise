@@ -12,3 +12,5 @@ As an example we will collaboratively develop a cookbook for taco recipes, inspi
 4. Open a pull request
 5. Review somebody else's pull request
 6. Discuss together your findings
+
+Adding some changes for demonstration.
